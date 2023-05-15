@@ -1,0 +1,3 @@
+streamlit
+pandas
+# /Users/I576810/Documents/GitHub/docker/gapminder
